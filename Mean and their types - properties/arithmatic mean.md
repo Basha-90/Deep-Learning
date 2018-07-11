@@ -4,3 +4,12 @@ it is sensitive to extreme outliers, especially when the sample size is small.Th
 
 
 arithmatic mean=formula
+
+
+Arithmatic mean of group data
+
+
+
+weighted Arthmatic Mean
+
+When the values are not of equal importance, we assign them certain numerical values to express their relative importance.
